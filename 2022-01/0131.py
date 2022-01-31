@@ -161,3 +161,4 @@ while True:
 맞았습니다
 
 //turtle, tkinter 제외한 파이썬 컨텐츠는 완료!
+//학기중에 추가로 
