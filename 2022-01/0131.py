@@ -160,4 +160,4 @@ while True:
 리스트
 맞았습니다
 
-
+//turtle, tkinter 제외한 파이썬 컨텐츠는 완료!
